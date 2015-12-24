@@ -1,3 +1,2 @@
 # hanguodaigou
-daigou
-testpage
+你好
